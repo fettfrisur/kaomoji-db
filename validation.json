@@ -1,0 +1,335 @@
+{
+  "catalogue_rows": 36625,
+  "individual_annotations": 30,
+  "checks": [
+    "exact deduplication",
+    "unique IDs",
+    "nonempty metadata",
+    "SQLite integrity",
+    "SQL/JSONL count agreement",
+    "keyword hit",
+    "unknown keyword miss"
+  ],
+  "queries": [
+    {
+      "query": "quiet satisfaction with a little smugness",
+      "elapsed_seconds_two_searches": 0.841,
+      "all_catalogue": [
+        {
+          "face": "(｡>ω<｡)",
+          "score": 0.6689,
+          "description": "Source categories suggest: smug self satisfied pleased with myself mischievous knowing grin; relaxed relieved calm content cozy quietly satisfied.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(｀⌒´)",
+          "score": 0.6184,
+          "description": "Source categories suggest: smug self satisfied pleased with myself mischievous knowing grin; angry annoyed grumpy irritated frustrated.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(¯▿¯)",
+          "score": 0.6148,
+          "description": "Source categories suggest: smug self satisfied pleased with myself mischievous knowing grin; joy.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "˙𐃷˙",
+          "score": 0.6144,
+          "description": "Source categories suggest: smug self satisfied pleased with myself mischievous knowing grin; deadpan blank stare unimpressed skeptical flat expression.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(´｡• ᵕ •｡`)",
+          "score": 0.609,
+          "description": "Source categories suggest: smug self satisfied pleased with myself mischievous knowing grin; mischievous scheming sly chuckle playful menace; approval well done congratulations applause; omoshiroi; music singing dancing rhythmic enthusiasm; afraid worried anxious nervous trembling; tokeru; uttori; relaxed relieved calm content cozy quietly satisfied; joy.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(￣ー￣)",
+          "score": 0.5886,
+          "description": "A restrained closed-eye smile; quiet satisfaction, knowing confidence, or affectionate smugness.",
+          "annotation_kind": "individual interpretation"
+        }
+      ],
+      "reviewed_only": [
+        {
+          "face": "(￣ー￣)",
+          "score": 0.5886,
+          "description": "A restrained closed-eye smile; quiet satisfaction, knowing confidence, or affectionate smugness."
+        },
+        {
+          "face": "┐(￣ヘ￣)┌",
+          "score": 0.4872,
+          "description": "A shrug with a displeased mouth; resigned exasperation, what can you do, mildly theatrical helplessness."
+        },
+        {
+          "face": "( ˘⌣˘)♡",
+          "score": 0.4393,
+          "description": "A relaxed closed-eye smile with a heart; quiet fondness, tender approval, or affectionate contentment."
+        },
+        {
+          "face": "(っ˘ω˘ς )",
+          "score": 0.4328,
+          "description": "Closed eyes with hands gathered around the face; cozy contentment and quiet delight."
+        }
+      ]
+    },
+    {
+      "query": "a little embarrassed but pleased that it worked",
+      "elapsed_seconds_two_searches": 0.9,
+      "all_catalogue": [
+        {
+          "face": "(ノ*°▽°*)",
+          "score": 0.3419,
+          "description": "Source categories suggest: embarrassment.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(/▿＼ )",
+          "score": 0.3419,
+          "description": "Source categories suggest: embarrassment.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(⌒_⌒;)",
+          "score": 0.3315,
+          "description": "Source categories suggest: bashful embarrassed shy sheepish self conscious; afraid worried anxious nervous trembling; embarrassment.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(//▽//)",
+          "score": 0.3301,
+          "description": "Source categories suggest: bashful embarrassed shy sheepish self conscious; embarrassment.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+          "score": 0.3234,
+          "description": "Source categories suggest: bashful embarrassed shy sheepish self conscious; tokeru; embarrassment.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "( ´ ▽ ` )b",
+          "score": 0.3211,
+          "description": "Source categories suggest: approval well done congratulations applause; relaxed relieved calm content cozy quietly satisfied.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        }
+      ],
+      "reviewed_only": [
+        {
+          "face": "(￣▽￣)ゞ",
+          "score": 0.259,
+          "description": "A smiling face with a hand by its head; sheepish acknowledgement, good-humoured admission, or a casual salute."
+        },
+        {
+          "face": "(；￣ー￣)",
+          "score": 0.2551,
+          "description": "A composed smile with a sweat mark; pretending everything is fine while privately apprehensive."
+        },
+        {
+          "face": "┐(￣ヘ￣)┌",
+          "score": 0.2446,
+          "description": "A shrug with a displeased mouth; resigned exasperation, what can you do, mildly theatrical helplessness."
+        },
+        {
+          "face": "(；・∀・)",
+          "score": 0.2304,
+          "description": "A smiling face with a sweat mark; awkward cheerfulness, startled politeness, or nervously keeping up."
+        }
+      ]
+    },
+    {
+      "query": "patiently restoring order after comic chaos",
+      "elapsed_seconds_two_searches": 0.832,
+      "all_catalogue": [
+        {
+          "face": "┬─┬ノ( º _ ºノ)",
+          "score": 0.49,
+          "description": "A figure carefully restoring a table; comic de-escalation, tidying up after chaos, patient repair.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(ノಠ益ಠ)ノ彡┻━┻",
+          "score": 0.2947,
+          "description": "A furious face throwing a table; exaggerated frustration and comic loss of patience.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(ʘ‿ʘ)",
+          "score": 0.2596,
+          "description": "Round staring eyes above a smile; intent cheerful attention that can read as comic, slightly alarming eagerness.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(°◡°)",
+          "score": 0.274,
+          "description": "Source categories suggest: sparkling magical flourish wonder; raritteru.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "o(｡>ᴗ<｡)o︎",
+          "score": 0.2729,
+          "description": "Source categories suggest: excited anticipation eager looking forward.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(＊´﹃｀＊)",
+          "score": 0.2702,
+          "description": "Source categories suggest: excited anticipation eager looking forward; mischievous scheming sly chuckle playful menace.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        }
+      ],
+      "reviewed_only": [
+        {
+          "face": "┬─┬ノ( º _ ºノ)",
+          "score": 0.49,
+          "description": "A figure carefully restoring a table; comic de-escalation, tidying up after chaos, patient repair."
+        },
+        {
+          "face": "(ノಠ益ಠ)ノ彡┻━┻",
+          "score": 0.2947,
+          "description": "A furious face throwing a table; exaggerated frustration and comic loss of patience."
+        },
+        {
+          "face": "(ʘ‿ʘ)",
+          "score": 0.2596,
+          "description": "Round staring eyes above a smile; intent cheerful attention that can read as comic, slightly alarming eagerness."
+        },
+        {
+          "face": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+          "score": 0.2107,
+          "description": "A wide happy face throwing sparkles; exuberant presentation, magical flourish, or gleeful celebration."
+        }
+      ]
+    },
+    {
+      "query": "skeptical side eye",
+      "elapsed_seconds_two_searches": 0.779,
+      "all_catalogue": [
+        {
+          "face": "(¬_¬)",
+          "score": 0.5169,
+          "description": "A sideways flat stare; skeptical suspicion, dry disapproval, or amused side-eye.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(눈_눈)",
+          "score": 0.4558,
+          "description": "Heavy-lidded eyes over a flat mouth; sustained unimpressed scrutiny, dry skepticism, or weary judgment.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(╭ರ_•́)",
+          "score": 0.4375,
+          "description": "A face with a raised brow-like flourish; theatrical scrutiny, detective-like curiosity, or suspicious consideration.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(￢_￢)",
+          "score": 0.4098,
+          "description": "Source categories suggest: tooime; surprised astonished shocked stunned disbelief; deadpan blank stare unimpressed skeptical flat expression; doubt.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "|･ω･)",
+          "score": 0.3936,
+          "description": "A small face peeking around an edge; tentative curiosity, quietly checking in, or bashful interest.",
+          "annotation_kind": "individual interpretation"
+        },
+        {
+          "face": "(→_→)",
+          "score": 0.4059,
+          "description": "Source categories suggest: deadpan blank stare unimpressed skeptical flat expression; doubt.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        }
+      ],
+      "reviewed_only": [
+        {
+          "face": "(¬_¬)",
+          "score": 0.5169,
+          "description": "A sideways flat stare; skeptical suspicion, dry disapproval, or amused side-eye."
+        },
+        {
+          "face": "(눈_눈)",
+          "score": 0.4558,
+          "description": "Heavy-lidded eyes over a flat mouth; sustained unimpressed scrutiny, dry skepticism, or weary judgment."
+        },
+        {
+          "face": "(╭ರ_•́)",
+          "score": 0.4375,
+          "description": "A face with a raised brow-like flourish; theatrical scrutiny, detective-like curiosity, or suspicious consideration."
+        },
+        {
+          "face": "|･ω･)",
+          "score": 0.3936,
+          "description": "A small face peeking around an edge; tentative curiosity, quietly checking in, or bashful interest."
+        }
+      ]
+    },
+    {
+      "query": "offering a gentle comforting hug",
+      "elapsed_seconds_two_searches": 0.861,
+      "all_catalogue": [
+        {
+          "face": "(つ◉益◉)つ",
+          "score": 0.634,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(っ*´∀｀*)っ",
+          "score": 0.634,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "丶(・ω・｀) ﾖｼﾖｼ",
+          "score": 0.6295,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(｡´･ω･)ﾉﾞ",
+          "score": 0.6295,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "(つ´∀｀)つ",
+          "score": 0.6191,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        },
+        {
+          "face": "⊂(・▽・⊂)",
+          "score": 0.6191,
+          "description": "Source categories suggest: comfort affection reassurance hug gentle support patting.",
+          "annotation_kind": "category gloss plus literal cues; not individually reviewed"
+        }
+      ],
+      "reviewed_only": [
+        {
+          "face": "(づ｡◕‿‿◕｡)づ",
+          "score": 0.5704,
+          "description": "A smiling face with outstretched arms; offering a warm hug and uncomplicated affection."
+        },
+        {
+          "face": "( ˘⌣˘)♡",
+          "score": 0.5404,
+          "description": "A relaxed closed-eye smile with a heart; quiet fondness, tender approval, or affectionate contentment."
+        },
+        {
+          "face": "(つω`｡)",
+          "score": 0.3777,
+          "description": "A face with a hand near a tearful eye; shy sadness, wiping away a tear, or touched emotion."
+        },
+        {
+          "face": "(っ˘ω˘ς )",
+          "score": 0.3684,
+          "description": "Closed eyes with hands gathered around the face; cozy contentment and quiet delight."
+        }
+      ]
+    }
+  ]
+}
