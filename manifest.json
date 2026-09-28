@@ -1,0 +1,16 @@
+{
+  "created": "2026-09-28",
+  "unique_faces": 36625,
+  "individually_interpreted_faces": 30,
+  "unique_embedded_search_texts": 3374,
+  "dimensions": 384,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "semantic_search_tested": true,
+  "automatically_installed_in_chatgpt": false,
+  "checks": "validation.json",
+  "source_hashes": {
+    "sources/LICENSE": "6caa0b409bc5bbbd06875c3b98ce4224da875e5d85409de2a3d3f12b25ecaae2",
+    "sources/kaomoji.json": "7373e5dabd04fdc91cfb452af6f65950fa6953a613c804cbcd790d3ed4ef738d",
+    "sources/kaomoji-you.json": "1330c251febe5818b84668b9e6554a20939a25c7a2bde74a093daa48340e109f"
+  }
+}
