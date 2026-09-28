@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+.DS_Store
+catalogue.jsonl
+catalogue.sqlite
+vectors.npz
